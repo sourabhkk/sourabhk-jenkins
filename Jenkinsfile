@@ -8,7 +8,7 @@ pipeline {
         MINOR = '0'
         //Orchestrator Services
         UIPATH_ORCH_URL = "https://cloud.uipath.com/"
-        UIPATH_ORCH_LOGICAL_NAME = "uipathJenkinsDeme"
+        UIPATH_ORCH_LOGICAL_NAME = "slkfzedkct"
         UIPATH_ORCH_TENANT_NAME = "BIG_BANG"
         UIPATH_ORCH_FOLDER_NAME = "practise folder"
     }
